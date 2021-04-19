@@ -17,7 +17,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"tun2socks/tunbased"
+	"github.com/briteming/tun2socks-3/tunbased"
 )
 
 // echo service
