@@ -1,4 +1,4 @@
-module github.com/briteming/tun2socks-3/
+module github.com/briteming/tun2socks-3
 
 go 1.13
 
